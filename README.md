@@ -1,7 +1,7 @@
 # Building-ETL-pipeline-with-Apache-Airflow
 ## Write a DAG named ETL_Server_Access_Log_Processing
 # Download task:
-download task must download the server access log file 
+***download the server access log file**
 # Extract task:
 ***The server access log file contains these fields*** 
 
