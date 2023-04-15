@@ -24,7 +24,7 @@ The transform task capitalize the visitorid
 The load task compress the extracted and transformed data.
 
 # The pipeline block schedule the task in the order listed below:
-download  
-extract  
-transform  
-load
+- download  
+- extract  
+- transform  
+- load
